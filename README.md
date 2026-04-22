@@ -1,22 +1,22 @@
 # atm-system-python
-Hello! I am new to programming and learning python. This is the first project I made after learning about 2 weeks.
+#Hello! I am new to programming and learning python. This is the first project I made after learning about 2 weeks.
 
-Features:
+#Features:
 - Login with 3 attempts
 - Deposit money
 - Withdraw money
 - Check balance
 
-What I learned:
+#What I learned:
 - Dictionary and list usage
 - Loops and condtions
 - Basic systm design
 
-What I will learn next:
+#What I will learn next:
 - Add file saving
 - Improve structure with functions
 
-Below is the code I wrote:
+#Below is the code I wrote:
 
 # User Data
 users = {
